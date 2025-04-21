@@ -24,13 +24,13 @@ O projeto serve para apresentar o mundo da programação. Se chama semana do dev
 ## Como ficou o projeto online
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Preview.gif" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.gif" width="100%">
 </p>
 
 ## 📱 Mobile
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Preview-mobile.gif" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview-mobile.gif" width="100%">
 </p>
 
 <div align="center">
